@@ -1,0 +1,43 @@
+_repo: A-good-woman_74011
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bromfield, Louis
+    alias: Bromfield, Luis
+    birthdate: 1896
+    deathdate: 1956
+    gutenberg_agent_id: '56672'
+    url: http://www.gutenberg.org/2009/agents/56672
+    wikipedia: https://en.wikipedia.org/wiki/Louis_Bromfield
+description: '"The last of a series of four novels ... The book was planned, without
+  being in any sense of sequel, as part of a picture which includes three other sections--''The
+  green bay tree'' [#73944], ''Possession'' [#73188] and ''Early autumn'' [#72406].
+  Taken together the four might be considered as a single novel with the ... title
+  ''Escape''."--Foreword.'
+gutenberg_issued: '2024-07-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74011'
+  lccn: '27015971'
+language: en
+pgterms:marc904: https://babel.hathitrust.org/cgi/pt?id=mdp.39015030850963&view=1up&seq=7
+pgterms:marc905: 20230209045325bromfield
+pgterms:marc906: '1927'
+pgterms:marc907: US
+production_note: Chuck Greif and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This book was produced from images made available by the HathiTrust Digital Library.)
+publication_note: '  $aNYC :$bFrederick A. Stokes Company, $c1927.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Domestic fiction'
+- !lcsh 'Conduct of life -- Fiction'
+- !lcsh 'Man-woman relationships -- Fiction'
+- !lcsh 'Mothers and sons -- Fiction'
+- !lcsh 'Spouses -- Fiction'
+- !lcsh 'Missionaries -- Africa, East -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: A good woman
+url: http://www.gutenberg.org/ebooks/74011
