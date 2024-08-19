@@ -1,5 +1,8 @@
 _repo: A-good-woman_74011
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 74011-h/images/cover.jpg
 creator:
   author:
     agent_name: Bromfield, Louis
@@ -14,6 +17,8 @@ description: '"The last of a series of four novels ... The book was planned, wit
   green bay tree'' [#73944], ''Possession'' [#73188] and ''Early autumn'' [#72406].
   Taken together the four might be considered as a single novel with the ... title
   ''Escape''."--Foreword.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74011#A-good-woman
 gutenberg_issued: '2024-07-11'
 gutenberg_type: Text
 identifiers:
